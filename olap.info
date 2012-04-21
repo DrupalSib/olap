@@ -1,0 +1,3 @@
+name = OLAP
+description = OLAP integration for register module
+core = 7.x
